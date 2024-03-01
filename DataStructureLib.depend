@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1709228063 source:d:\ine1\data stucture librairy\datastructurelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	"myHeader.h"
+
+1709226811 d:\ine1\data stucture librairy\datastructurelib\myheader.h
+
